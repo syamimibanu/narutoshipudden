@@ -1,0 +1,123 @@
+div
+{
+    text-align: center;
+}
+
+h1
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: 85A389;
+}
+
+h3
+{
+    text-align: center;
+    color: #606C5D;
+}
+
+code
+{
+    text-align: center;
+    color: EA3662;
+}
+
+h4
+{
+    text-align: center;
+    color: #FAEA48;
+}
+
+design
+{
+    font-family: cursive;
+    color: 97495C;
+}
+
+wel
+{
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+name
+{
+    color: yellow;
+}
+
+text
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #8B7E74;
+}
+
+text2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #A7727D;
+}
+
+family
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+hello
+{
+    color: #8B7E74;
+}
+
+about
+{
+    color: 5C8984;
+}
+
+.center
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:visited
+{
+    color: black ;
+    text-decoration: none;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a:hover
+{
+    color: grey;
+    text-decoration: underline;
+}
+
+option
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(182, 46, 173);
+}
+
+pattern
+{
+    text-align: center;
+}
+
+.column
+{
+    float: left;
+    width: 30%;
+    padding: 5px;
+}
+
+.row::after
+{
+    content:"";
+    clear: both;
+    display: table;
+}
